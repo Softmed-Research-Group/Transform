@@ -1,7 +1,7 @@
 Package: Transform
 Type: Package
 Title: Statistical Transformations
-Version: 0.9
+Version: 1.0
 Date: 2023-06-07
 Depends: R (>= 3.2.0)
 Authors@R: c(person("Muge", "Coskun Yildirim", role = "aut"), person("Osman", "Dag", role = c("aut", "cre"), email = "osman.dag@outlook.com"))
